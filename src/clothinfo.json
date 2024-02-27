@@ -1,0 +1,458 @@
+{
+  "cart": [
+    {
+      "id": 100,
+      "type": "abc",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/q/l/g/s-polocb-011-whinavred-urbano-fashion-original-imagmsf4gdvrsw4r.jpeg?q=70&crop=false",
+      "brand": "US Polo",
+      "color": "White",
+      "description": "White Pattern Cotton Tshirt",
+      "price": 2299,
+      "size": "S",
+      "quantity": 1
+    }
+  ],
+
+  "productsdata": [
+    {
+      "id": 1,
+      "type": "Jacket",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/d/p/u/s-mnt-7019-montrez-original-imag5hb9s6wnr9vy-bb.jpeg?q=70&crop=false",
+      "brand": "MONTREZ",
+      "color": "Green",
+      "description": "Men's Casual Jacket",
+      "price": 950,
+      "size": "XL",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "type": "Socks",
+      "image": "https://rukminim2.flixcart.com/image/832/832/kxxl9jk0/sock/m/8/f/free-3-ws-tm-patti-wildstuff-original-imagaadgcyxay5hy.jpeg?q=70&crop=false",
+      "brand": "Wildstuff",
+      "color": "White",
+      "description": "Sporty Ankle Socks",
+      "price": 120,
+      "size": "S",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "type": "Trousers",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/s/q/p/3xl-osf-sps-047-br-only-she-original-imagx7pq44ce9bzf.jpeg?q=70&crop=false",
+      "brand": "ONLY SHE",
+      "color": "Brown",
+      "description": "Casual Straight Trousers",
+      "price": 1100,
+      "size": "XL",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "type": "Shirt",
+      "image": "https://rukminim2.flixcart.com/image/832/832/l15bxjk0/shirt/0/m/v/s-nvk-mand-nivick-original-imagcrw6hxz2ye7r.jpeg?q=70&crop=false",
+      "brand": "NIVICK",
+      "color": "White",
+      "description": "Cotton Polo Shirt",
+      "price": 800,
+      "size": "M",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "type": "Jacket",
+      "image": "https://rukminim2.flixcart.com/image/832/832/kpsnzww0/jacket/n/j/h/3xl-mens-jacket-leather-retail-original-imag3ybmyxnunrab.jpeg?q=70&crop=false",
+      "brand": "Leather Retail",
+      "color": "Brown",
+      "description": "Leather Biker Jacket",
+      "price": 1800,
+      "size": "XXL",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "type": "Shirt",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/r/f/d/xl-full-lafer-chk-yellow-base-41-original-imagq8h8tchszmt2.jpeg?q=70&crop=false",
+      "brand": "BASE 41",
+      "color": "Yellow",
+      "description": "Checkered Casual Shirt",
+      "price": 1000,
+      "size": "XL",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "type": "Jacket",
+      "image": "https://rukminim2.flixcart.com/image/832/832/ktyp8cw0/jacket/m/q/c/xxl-no-ice-full-jacket-red-wearspot-original-imag76zyvsfdt589.jpeg?q=70&crop=false",
+      "brand": "NYSION",
+      "color": "Red",
+      "description": "Quilted Bomber Jacket",
+      "price": 1500,
+      "size": "XXL",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "type": "Shirt",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shopsy-shirt/d/r/p/m-sp-new-chekx-shirt-orange-silver-buck-original-imagjq6z5bgxwuc4.jpeg?q=70&crop=false",
+      "brand": "KIYANA",
+      "color": "Orange",
+      "description": "Linen Button-up Shirt",
+      "price": 600,
+      "size": "M",
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "type": "Jacket",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/k/a/j/m-1-no-634-fk-breil-by-fort-collins-original-imagvg7fhtabfrtc.jpeg?q=70&crop=false",
+      "brand": "Breil By Fort Collins",
+      "color": "Gray",
+      "description": "Hooded Parka Jacket",
+      "price": 1600,
+      "size": "M",
+      "quantity": 1
+    },
+    {
+      "id": 10,
+      "type": "Shirt",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/i/5/x/l-dgflortewz11-dimmy-original-imagrnr8gqy92394.jpeg?q=70&crop=false",
+      "brand": "DIMMY",
+      "color": "Purple",
+      "description": "Floral Print Shirt",
+      "price": 1100,
+      "size": "L",
+      "quantity": 1
+    },
+    {
+      "id": 11,
+      "type": "Jacket",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/x/l/l/xl-1-no-535-1-ftx-original-imagtnuqpr7pz5xz.jpeg?q=70&crop=false",
+      "brand": "FTX",
+      "color": "Navy Blue",
+      "description": "Denim Trucker Jacket",
+      "price": 1700,
+      "size": "XL",
+      "quantity": 1
+    },
+    {
+      "id": 12,
+      "type": "Shirt",
+      "image": "https://rukminim2.flixcart.com/image/832/832/kg15ocw0-0/shirt/f/r/5/s-sna-peach-plain-rayon-shirt-s-n-a-enterprises-original-imafwd4a2vhgthcn.jpeg?q=70&crop=false",
+      "brand": "Funday Fashion Store",
+      "color": "Pink",
+      "description": "Silk Dress Shirt",
+      "price": 1400,
+      "size": "S",
+      "quantity": 1
+    },
+    {
+      "id": 13,
+      "type": "Jacket",
+      "image": "https://rukminim2.flixcart.com/image/832/832/kflftzk0/jacket/p/z/z/xxl-1285-fk-breil-by-fort-collins-original-imafwyyegzzyx6s5.jpeg?q=70&crop=false",
+      "brand": "Breil By Fort Collins",
+      "color": "Beige",
+      "description": "Suede Moto Jacket",
+      "price": 2000,
+      "size": "XXL",
+      "quantity": 1
+    },
+    {
+      "id": 14,
+      "type": "Shirt",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/v/4/c/xl-jio-bubble-krishna-garments-original-imagxa3kezxjzwy6.jpeg?q=70&crop=false",
+      "brand": "DLOOK",
+      "color": "Turquoise",
+      "description": "Embroidered Linen Shirt",
+      "price": 1200,
+      "size": "XL",
+      "quantity": 1
+    },
+    {
+      "id": 15,
+      "type": "Jacket",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/g/x/0/-original-imagkrgghzphagkd.jpeg?q=70&crop=false",
+      "brand": "Burdy",
+      "color": "Mustard",
+      "description": "Corduroy Bomber Jacket",
+      "price": 1800,
+      "size": "M",
+      "quantity": 1
+    },
+    {
+      "id": 16,
+      "type": "Trousers",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/q/o/y/40-cypv-f-cyphus-original-imagqezarctsrydm.jpeg?q=70&crop=false",
+      "brand": "CYPHUS",
+      "color": "Gray",
+      "description": "Slim Fit Formal Trousers",
+      "price": 1200,
+      "size": "L",
+      "quantity": 1
+    },
+    {
+      "id": 17,
+      "type": "Socks",
+      "image": "https://rukminim2.flixcart.com/image/832/832/knw2v0w0/sock/o/a/o/free-3-plain-z-black-03-vap-india-original-imag2hykqfcm77pn.jpeg?q=70&crop=false",
+      "brand": "Ross & Rack",
+      "color": "Black",
+      "description": "Cotton Dress Socks",
+      "price": 150,
+      "size": "M",
+      "quantity": 1
+    },
+    {
+      "id": 18,
+      "type": "Pants",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/o/a/h/-original-imagp3fzxgrwq295.jpeg?q=70&crop=false",
+      "brand": "METRONAUT",
+      "color": "Khaki",
+      "description": "Casual Straight Leg Pants",
+      "price": 1000,
+      "size": "XL",
+      "quantity": 1
+    },
+    {
+      "id": 19,
+      "type": "Trousers",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/k/w/z/32-dl-s-ch-manny-navy-blackberrys-original-imagtj6axfverggy.jpeg?q=70&crop=false",
+      "brand": "Blackberrys",
+      "color": "Navy Blue",
+      "description": "Classic Pleated Trousers",
+      "price": 1300,
+      "size": "M",
+      "quantity": 1
+    },
+    {
+      "id": 20,
+      "type": "Shirt",
+      "image": "https://rukminim2.flixcart.com/image/832/832/ksgehzk0/shirt/h/u/9/l-proto-1601-wlfble-protozone-original-imag6ff94zgzcgzy.jpeg?q=70&crop=false",
+      "brand": "PROTOZONE",
+      "color": "Blue",
+      "description": "Striped Cotton Shirt",
+      "price": 1200,
+      "size": "L",
+      "quantity": 1
+    },
+    {
+      "id": 21,
+      "type": "Pants",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/0/5/m/28-dcbfaceblk-2-zesso-comfort-original-imagt32wgdnxa6xu.jpeg?q=70&crop=false",
+      "brand": "zesso comfort",
+      "color": "Charcoal",
+      "description": "Slim Fit Jogger Pants",
+      "price": 1500,
+      "size": "M",
+      "quantity": 1
+    },
+    {
+      "id": 22,
+      "type": "Jacket",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/b/y/1/m-no-v1-jkt-denim-rfd-blast-black-verticals-original-imagtq5yh9cpckvy.jpeg?q=70&crop=false",
+      "brand": "VERTICALS",
+      "color": "Black",
+      "description": "Washed Denim Jacket",
+      "price": 1400,
+      "size": "L",
+      "quantity": 1
+    },
+    {
+      "id": 23,
+      "type": "Socks",
+      "image": "https://rukminim2.flixcart.com/image/832/832/k1pbpu80pkrrdj/sock/z/h/8/free-bl-a-03-pack-12fs-balenzia-original-imaf59mfa2vstqfy.jpeg?q=70&crop=false",
+      "brand": "MATTZIG",
+      "color": "Gray Striped",
+      "description": "Business Casual Socks",
+      "price": 180,
+      "size": "S",
+      "quantity": 1
+    },
+    {
+      "id": 24,
+      "type": "Pants",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/k/e/v/30-1000012452699-olive-bossini-original-imagvh5ywzjrqgz3.jpeg?q=70&crop=false",
+      "brand": "BOSSINI",
+      "color": "Olive",
+      "description": "Cargo Pants",
+      "price": 1400,
+      "size": "XL",
+      "quantity": 1
+    },
+    {
+      "id": 25,
+      "type": "Trousers",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/e/s/z/30-tu1-vebnor-original-imagmy6hhhz62qzn.jpeg?q=70&crop=false",
+      "brand": "COMBRAIDED",
+      "color": "Black",
+      "description": "Slim Fit Stretch Trousers",
+      "price": 1600,
+      "size": "XXL",
+      "quantity": 1
+    },
+    {
+      "id": 26,
+      "type": "Socks",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/sock/l/3/5/free-6-ankle-big-check-6-pair-hicode-original-imagwhsv9twpgwhe.jpeg?q=70&crop=false",
+      "brand": "HICODE",
+      "color": "Patterned",
+      "description": "Fashion Crew Socks",
+      "price": 200,
+      "size": "L",
+      "quantity": 1
+    },
+    {
+      "id": 27,
+      "type": "Pants",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/cargo/r/x/r/m-olive-cargo-01-sprouted-original-imagsguqxveedtnd.jpeg?q=70&crop=false",
+      "brand": "SPROUTED",
+      "color": "Camouflage",
+      "description": "Cargo Jogger Pants",
+      "price": 1700,
+      "size": "M",
+      "quantity": 1
+    },
+    {
+      "id": 28,
+      "type": "Trousers",
+      "image": "https://rukminim2.flixcart.com/image/832/832/jrtj2q80/trouser/h/v/k/xs-mc1157a-marie-claire-original-imafdjcmpgqxyzfz.jpeg?q=70&crop=false",
+      "brand": "Marie Claire",
+      "color": "Beige",
+      "description": "Classic Chinos",
+      "price": 1250,
+      "size": "S",
+      "quantity": 1
+    },
+    {
+      "id": 29,
+      "type": "Dress",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/gown/p/v/a/na-xxl-3-4-sleeve-stitched-wine-leriya-wearial-na-original-imagrb7kvygvzz6f.jpeg?q=70&crop=false",
+      "brand": "Fashionista",
+      "color": "Red",
+      "description": "A-Line Evening Dress",
+      "price": 1999,
+      "size": "M",
+      "quantity": 1
+    },
+    {
+      "id": 30,
+      "type": "Dress",
+      "image": "https://rukminim2.flixcart.com/image/832/832/l4d2ljk0/dress/u/f/7/s-kurti-western-dresses-for-women-girls-dress-womens-stylish-original-imagfa3vqpbggvvd.jpeg?q=70&crop=false",
+      "brand": "Chic Couture",
+      "color": "Navy Blue",
+      "description": "Cocktail Party Dress",
+      "price": 1999,
+      "size": "M",
+      "quantity": 1
+    },
+    {
+      "id": 31,
+      "type": "Jeans",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/r/2/8/36-epsreg-black-urbano-fashion-original-imagpq7xht6mkdfp.jpeg?q=70&crop=false",
+      "brand": "Urban Denim",
+      "color": "Black",
+      "description": "Slim Fit Stretch Jeans",
+      "price": 1299,
+      "size": "L",
+      "quantity": 1
+    },
+    {
+      "id": 32,
+      "type": "Shirt",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/k/m/s/38-shirtsolreg-uf103-black-urbano-fashion-original-imagznr8ttpra49c.jpeg?q=70&crop=false",
+      "brand": "Classic Casuals",
+      "color": "Black",
+      "description": "Basic Shirt",
+      "price": 699,
+      "size": "M",
+      "quantity": 1
+    },
+    {
+      "id": 33,
+      "type": "Tshirt",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/k/s/m/xxl-stand-collar-uppers-original-imaghz5rx2793ehh.jpeg?q=70&crop=false",
+      "brand": "Elegant Enigma",
+      "color": "Yellow",
+      "description": "Yellow Pattern Cotton Tshirt",
+      "price": 2299,
+      "size": "S",
+      "quantity": 1
+    },
+    {
+      "id": 34,
+      "type": "Jeans",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/jean/w/n/p/38-bootjenwhkyel-dblue-urbano-fashion-original-imagtrygftjxycbe.jpeg?q=70&crop=false",
+      "brand": "Denim Delight",
+      "color": "Black",
+      "description": "Bootcut Jeans",
+      "price": 1499,
+      "size": "XL",
+      "quantity": 1
+    },
+    {
+      "id": 35,
+      "type": "Dress",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/dress/k/s/m/xxl-kurti-western-dresses-for-women-girls-dress-womens-stylish-original-imagfc7mwhrsmngj.jpeg?q=70&crop=false",
+      "brand": "Trendy Threads",
+      "color": "Yellow",
+      "description": "Ruffled Mini Dress",
+      "price": 1799,
+      "size": "XL",
+      "quantity": 1
+    },
+    {
+      "id": 36,
+      "type": "Tshirt",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/5/2/4/l-21775898-here-now-original-imagtyd5cgbydnh3.jpeg?q=70&crop=false",
+      "brand": "Everyday Essentials",
+      "color": "Red",
+      "description": "Casual Tshirt",
+      "price": 799,
+      "size": "XL",
+      "quantity": 1
+    },
+    {
+      "id": 37,
+      "type": "Jeans",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/i/l/e/28-1212-straight-fit-vbeauti-original-imagrxhvkpfhwmeh.jpeg?q=70&crop=false",
+      "brand": "Casual Comfort",
+      "color": "Gray",
+      "description": "Straight Leg Jeans",
+      "price": 1199,
+      "size": "L",
+      "quantity": 1
+    },
+    {
+      "id": 38,
+      "type": "Tshirt",
+      "image": "https://rukminim2.flixcart.com/image/832/832/ktrk13k0/shopsy-t-shirt/r/y/f/l-gents-211-mehandi-lime-original-imag7f48hc6grqsg.jpeg?q=70&crop=false",
+      "brand": "Modern Marvel",
+      "color": "Blue and Green",
+      "description": "Designer Tshirt",
+      "price": 2699,
+      "size": "M",
+      "quantity": 1
+    },
+    {
+      "id": 39,
+      "type": "Tshirt",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/q/l/g/s-polocb-011-whinavred-urbano-fashion-original-imagmsf4gdvrsw4r.jpeg?q=70&crop=false",
+      "brand": "US Polo",
+      "color": "White",
+      "description": "White Pattern Cotton Tshirt",
+      "price": 2299,
+      "size": "S",
+      "quantity": 1
+    },
+    {
+      "id": 40,
+      "type": "Dress",
+      "image": "https://rukminim2.flixcart.com/image/832/832/ku5ufm80/dress/r/a/d/m-western-dress-for-women-hiral-creation-original-imag7caxbmfqh2jz.jpeg?q=70&crop=false",
+      "brand": "Trendy Threads",
+      "color": "Blue and White",
+      "description": "Simple Dress",
+      "price": 1799,
+      "size": "XL",
+      "quantity": 1
+    }
+  ]
+}
